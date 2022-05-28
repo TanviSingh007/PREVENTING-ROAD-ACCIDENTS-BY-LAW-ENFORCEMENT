@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>DRIVER'S RECORD FORM</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" type="text/css" href="../static/index.css">
+
+        <style type="text/css">
+        	body {
+                background-image: url("https://www.tata.com/content/dam/tata/images/careers/desktop/tgip_overview2_banner_desktop_1920x1080.jpg");
+  				{#background-color: rgb(146, 168, 209);#}
+  				text-align: center;
+  				color: rgb(204, 218, 235);
+			}
+			.div-head{
+					margin: 50px;
+			}
+
+				hr{
+					background-color: rgb(204, 218, 235);
+				}
+
+				.jumb-width{
+
+					position: center;
+					background-color: rgb(19, 29, 41);
+				}
+				.footer {
+
+				    bottom: 0;
+				    width: 100%;
+				    height: 60px;
+				    line-height: 60px;
+				    background-color: rgb(19, 29, 41);
+				}
+				a{
+					color: rgb(204, 218, 235)
+				}
+
+				.card-style{
+					background-color: rgb(19, 29, 41);
+				}
+				img{
+				height: 150px;
+				width: 150px;
+				vertical-align: middle;
+				border-radius: 50%;
+
+				}
+
+
+				 .btn.btn-rounded {
+				     border-radius: 50px
+				 }
+			</style>
+
+
+
+
+
+	</head>
+
+	<body>
+
+        <form class="grid" action="/result" method="POST">
+
+            <h1>DRIVER'S RECORD FORM</h1>
+
+
+          <label for="name"><b>Enter you name:</b></label>
+          <input type="text" id="name" name="name" required >
+
+
+          <label for="Drivinglicsence">Enter your Driving Licsence Number:</label>
+          <input type="text" id="Drivinglicsence"  name="Drivinglicsence" required >
+
+         <br> click on the below SUBMIT button in order to record your face <br>
+          <input class="file_submit" type="Submit" >
+
+           <button type="button" onclick="window.location.href='Thankyou_for_registration.html'">FINAL SUBMISSION & <br> GOTO THANK YOU PAGE</button>
+        </form>
+    </body>
+</html>
