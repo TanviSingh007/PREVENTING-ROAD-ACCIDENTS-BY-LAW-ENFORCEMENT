@@ -23,12 +23,13 @@ Many families lose someone very close to some road accidents which are sometimes
      and UNREGISTERED DRIVERS stores photo of unregistered drivers .
 
      DATASET
-     SLEEP 
-     frame_sleep1.jpg 
-     YAWN
-     frame_yawn1.jpg
-     NO SEATBELT
-     seatbelt_DETECTED2.jpg
+     YAWN photo
+     ![alt text](https://github.com/[TanviSingh007]/[PREVENTING-ROAD-ACCIDENTS-BY-LAW-ENFORCEMENT]/blob/[main]/imageframe_yawn1.jpg?raw=true)
+     sleep photo
+     ![alt text](https://github.com/[TanviSingh007]/[PREVENTING-ROAD-ACCIDENTS-BY-LAW-ENFORCEMENT]/blob/[main]/imageframe_sleep1.jpg?raw=true)
+     
+     SEATBELT
+     ![alt text](https://github.com/[TanviSingh007]/[PREVENTING-ROAD-ACCIDENTS-BY-LAW-ENFORCEMENT]/blob/[main]/imageframe_yawn1.jpg?raw=true)
 
      it will be present in the given dataset photo as well 
 
