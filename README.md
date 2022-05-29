@@ -26,7 +26,7 @@ Many families lose someone very close to some road accidents which are sometimes
      YAWN photo
      ![alt text](https://github.com/[TanviSingh007]/[PREVENTING-ROAD-ACCIDENTS-BY-LAW-ENFORCEMENT]/blob/[main]/[dataset]/imageframe_yawn1.jpg?raw=true)
      sleep photo
-     ![alt text](https://github.com/[TanviSingh007]/[PREVENTING-ROAD-ACCIDENTS-BY-LAW-ENFORCEMENT]/blob/[main]/imageframe_sleep1.jpg?raw=true)
+     ![frame_sleep1](https://user-images.githubusercontent.com/95689441/170857781-ef32ec46-6af4-4424-ba79-0d86c01c6402.jpg)
      
      SEATBELT
      ![alt text](https://github.com/[TanviSingh007]/[PREVENTING-ROAD-ACCIDENTS-BY-LAW-ENFORCEMENT]/blob/[main]/imageframe_yawn1.jpg?raw=true)
