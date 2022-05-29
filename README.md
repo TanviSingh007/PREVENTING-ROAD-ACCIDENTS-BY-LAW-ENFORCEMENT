@@ -5,15 +5,24 @@ Many families lose someone very close to some road accidents which are sometimes
 
 ### as the name suggests , this application is a driving partner while you travel !
 
+# IT CAN DETECT AND RECOGNIZE 4 FEATURES:
+
+##  1) SLEEP DETECTION
+##  2) YAWN DETECTION
+##  3) SEAT BELT DETECTION
+##  4) RECOGNIZE THE DRIVER , AND HENCE DETECT IF HE/SHE IS HAVING DRIVING LICENCE OR NOT (I.E THEY ARE REGITERED DRIVERS OR NOT )
+
+## it is made using PYTHON , HTML , AND THE FRAMEWORK USED IS FLASK 
+
 ## any violation in road safety rules 
     >if road safety rules are compromised and camera has detected it , then the screenshots of doing that activity gets recorded
       so , if found yawning , sleeping , unauthorized driver , then the screen shot will be taken and you will get recorded doing that illegal activity.
-### dataset
+### dataset folder
    this solder stores images of yawning , sleeping and seat belt detection 
    
     you can check the folder in the repo as well
 
-### UNREGISTERED DRIVER
+### UNREGISTERED DRIVER folder
     this folder stores unrecognized drivers photograph
 
 
@@ -26,9 +35,16 @@ Many families lose someone very close to some road accidents which are sometimes
         and right click > install all packages option should be clicked
      5) RUN APP1.PY on PYCHARM , local host link comes and it is ready to work .
 
+     NOTE : RUN IT BY USING PYTHON3.9 AS A PYTHON INTERPRETER
 
-### YOUTUBE LINKS
+     FOR ANY DIFFICULTIES YOU MAY SEE THE YOUTUBE VIDEO FOR INSTALLATION FROM THERE YOU CAN SEE THAT THE I HAVE USED PYTHON 3.9 AS MY PYTHON INTERPRETER .
+
+
+### YOUTUBE LINKS: 
 
 #### youtube link for seeing the application 
      -->
-#### youtube link for installing the  application              
+     https://youtu.be/Rd3GaYZ4-DY
+#### youtube link for installing the  application 
+     -->
+     https://youtu.be/NP9pmL8FQ44             
