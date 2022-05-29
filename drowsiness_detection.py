@@ -171,7 +171,11 @@ while True:
             face_section = cv2.resize(face_section, (100, 100))
 
             outtt = knn(trainset, face_section.flatten())
-            cv2.putText(frame, names[int(outtt)], (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2,
+            if(names[int(outtt)]!=""):
+                cv2.putText(frame, names[int(outtt)], (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2,
+                        cv2.LINE_AA)
+            else:
+                cv2.putText(frame, "UNRECOGNIZED DRIVER ", (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2,
                         cv2.LINE_AA)
             naamjochapega=names[int(outtt)]
             check=False
@@ -225,10 +229,10 @@ while True:
 
                         # Belt Is Detected
                         print("Belt Detected")
-                        cv2.putText(frame, "Seatbelt detected", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7,
+                        cv2.putText(frame, "SEATBELT DETECTED", (10, 70), cv2.FONT_HERSHEY_SIMPLEX, 0.7,
                                     (0, 0, 255), 3)
                         count_seatbelt = count_seatbelt + 1
-                        cv2.imwrite("dataset/seatbelt_yawn%d.jpg" % count_seatbelt, beltframe)
+                        cv2.imwrite("dataset/seatbelt_DETECTED%d.jpg" % count_seatbelt, beltframe)
                         belt = True
 
             # Otherwise Current Slope Becomes Previous Slope (ps) And Current Line Becomes Previous Line (px1, py1, px2, py2)
