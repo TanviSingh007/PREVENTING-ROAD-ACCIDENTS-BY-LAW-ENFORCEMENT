@@ -70,9 +70,6 @@ def showfunc():
     return render_template("driver_registration_form.html")
 
 
-# @app.route('/Thankyou_for_registration')
-# def thankyou():
-#     return render_template("Thankyou_for_registration.html")
 
 if __name__ == "__main__":
     app.run()
