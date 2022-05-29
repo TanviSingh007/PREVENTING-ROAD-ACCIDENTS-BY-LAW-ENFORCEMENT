@@ -23,18 +23,11 @@ Many families lose someone very close to some road accidents which are sometimes
      and UNREGISTERED DRIVERS stores photo of unregistered drivers .
 
      DATASET
-     YAWN photo
-     ![alt text](https://github.com/[TanviSingh007]/[PREVENTING-ROAD-ACCIDENTS-BY-LAW-ENFORCEMENT]/blob/[main]/[dataset]/imageframe_yawn1.jpg?raw=true)
-     sleep photo
-     ![frame_sleep1](https://user-images.githubusercontent.com/95689441/170857781-ef32ec46-6af4-4424-ba79-0d86c01c6402.jpg)
+     in the dataset folder you can see the ss clicked while i broke some rules like yawn and sleep & seatbelt detection photo also present
+
+     Similarly in UNREGISTERED DRIVERS FOLDER 
+     you can see the pic of unrecognized driver 
      
-     SEATBELT
-     ![alt text](https://github.com/[TanviSingh007]/[PREVENTING-ROAD-ACCIDENTS-BY-LAW-ENFORCEMENT]/blob/[main]/imageframe_yawn1.jpg?raw=true)
-
-     it will be present in the given dataset photo as well 
-
-     UNREGISTERED DRIVER
-     unregistered_driver1.jpg
 
 INSTALLATION GUIDE
 
