@@ -14,7 +14,8 @@ Many families lose someone very close to some road accidents which are sometimes
 
 ## it is made using PYTHON , HTML , AND THE FRAMEWORK USED IS FLASK 
 
-## any violation in road safety rules 
+
+### any violation in road safety rules 
     >if road safety rules are compromised and camera has detected it , then the screenshots of doing that activity gets recorded
       so , if found yawning , sleeping , unauthorized driver , then the screen shot will be taken and you will get recorded doing that illegal activity.
 ### dataset folder
